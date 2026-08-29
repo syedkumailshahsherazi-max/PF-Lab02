@@ -1,3 +1,5 @@
 # PF-Lab02
-
-Syed Kumail Abbas Sherazi  26p3034
+Name: Syed Kumail Abbas Sherazi 
+Roll number: 26P3034
+Section: BS_AI_1A
+Instructor Name: Muhammad Aais Rabbani
